@@ -50,10 +50,6 @@ Ideal for smart farming applications such as greenhouses or remote crop monitori
 - Add alerting for critical sensor thresholds  
 - Integrate automatic irrigation control based on soil moisture  
 
----
 
-## License
-
-This project is open-source under the MIT License.
 
 
